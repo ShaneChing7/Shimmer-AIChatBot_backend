@@ -1,4 +1,4 @@
-<div align="center"> <img src="./public/logo.svg" alt="Shimmer AI ChatBot Logo" width="220" height="220" /> </div>
+<div align="center"> <img src="./docs/logo/logo.svg" alt="Shimmer AI ChatBot Logo" width="220" height="220" /> </div>
 
 <h1 align="center">Shimmer AI ChatBot - Backend</h1>
 
@@ -24,7 +24,7 @@
 </p>
 
 
-<p align="center"> 基于 Django REST Framework 构建，深度集成 DeepSeek 大模型能力，提供流式响应 (SSE)、多模态文件解析 (OCR/PDF) 及企业级权限管理体系。 </p>
+<p align="center"> 基于 Django REST Framework 构建，深度集成 DeepSeek 大模型能力，提供流式响应 (SSE)、多模态文件解析 (OCR/PDF)。 </p>
 
 ## 📖 简介 | Introduction
 
