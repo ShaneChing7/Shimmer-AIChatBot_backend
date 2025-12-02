@@ -1,0 +1,47 @@
+--- 核心安全配置 (绝对不能上传) ---
+
+.env
+.env.*
+secrets.json
+
+--- Python ---
+
+pycache/
+*.py[cod]
+*$py.class
+
+--- Django ---
+
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+--- 静态文件与媒体文件 ---
+
+static/ 通常是收集后的静态文件，开发时的源码不用忽略，但收集目录要忽略
+
+staticfiles/
+
+media/ 是用户上传的文件（头像、聊天附件），通常不上传到代码库
+
+media/
+
+--- 虚拟环境 (Virtual Environments) ---
+
+venv/
+env/
+.venv/
+.env/
+
+--- IDE 配置  ---
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+--- 操作系统文件 ---
+
+.DS_Store
+Thumbs.db
