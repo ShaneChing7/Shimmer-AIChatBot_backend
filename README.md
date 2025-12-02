@@ -167,8 +167,6 @@ python manage.py runserver
 - **Swagger UI (交互式)**: http://127.0.0.1:8000/api/docs/
 - **ReDoc (阅读模式)**: [http://127.0.0.1:8000/api/redoc/](https://www-d-google-d-com-s-gmn.tga.wuaicha.cc/search?q=http://127.0.0.1:8000/api/redoc/)
 
-<div align="center"> <img src="https://www-d-google-d-com-s-gmn.tga.wuaicha.cc/search?q=https://drf-spectacular.readthedocs.io/en/latest/_images/swagger_ui.png" alt="Swagger UI" width="90%" /> </div>
-
 ## ⚙️ 常见问题 | FAQ
 
 **Q: 上传图片时提示 "OCR Engine not found"?** 
